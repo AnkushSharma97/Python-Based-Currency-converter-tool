@@ -1,2 +1,6 @@
 # Python-Based-Currency-converter-tool
-This Tool can be used for Converting currencies of Different countries across the world to Indian currency i.e. INR
+##Objective:- 
+To create a Python based tool using which we can convert currencies of 10 different countries to Indian Currency.
+
+##Code:-
+[You can find the code here]
